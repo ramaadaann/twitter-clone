@@ -10,3 +10,4 @@ export { default as SaveIcon } from "./saved.icon";
 export { default as SearchIcon } from "./search.icon";
 export { default as TweetIcon } from "./tweet.icon";
 export { default as VertifiedAccountIcon } from "./vertified.icon";
+export { default as HastagIcon } from "./hastag.icon";
